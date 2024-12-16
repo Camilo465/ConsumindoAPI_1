@@ -5,9 +5,8 @@ Este é um projeto simples que consome uma API. No exemplo, estamos utilizando a
 
 ## Tecnologias Usadas
 - **C#**: Linguagem de programação principal utilizada para o desenvolvimento do projeto.
-- **.NET 8.0**: Framework utilizado para construir a API.
-- **HTTPClient**: Classe usada para fazer requisições HTTP para a API.
-- **Viacep API**: Serviço que fornece informações de endereço através de um CEP.
+- **Versão do .NET**: 8.0.
+- **Viacep API**: Serviço que fornece informações de endereço através de um CEP: https://viacep.com.br.
 - **Pacotes Utilizados**: Refit 8.0, Refit.HttpClientFactory 8.0.
 
 ## Instalação
